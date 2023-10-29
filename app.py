@@ -1,6 +1,7 @@
 from string import punctuation
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 import streamlit as st
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
