@@ -7,7 +7,7 @@ import joblib
 import streamlit_extras
 from streamlit_extras.let_it_rain import rain 
 import time
-
+import sklearn
 
 # Load the model
 model = joblib.load('review_detector.joblib')
