@@ -10,7 +10,7 @@ import time
 
 
 # Load the model
-model = joblib.load('review_detector.joblib')
+model = joblib.load('nlp/review_detector.joblib')
 
 # Set the page configuration
 st.set_page_config(page_title="Hotel Reviewer", page_icon="🏨")
