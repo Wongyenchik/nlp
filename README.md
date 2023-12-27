@@ -1,2 +1,2 @@
 # Natural Language Processing: Hotel Review Sentiment Analysis
-Test it here: https://nlp-project-scott.streamlit.app/
+Exploration into various data cleaning techniques and models including Multinomial Naive Bayes, Logistic Regression and SVM to build a hotel review sentiment analysis system. The purpose of the system is to classify the user's review to positive or negative. The model was deployed via Streamlit and is available at https://nlp-project-scott.streamlit.app/
